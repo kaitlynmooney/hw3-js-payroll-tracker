@@ -8,7 +8,7 @@ This webpage is designed to help an employer log their employee's name and salar
 
 To use this application, answer the given prompts then open the browser's console using Chrome DevTools. The console will show you the additional information of the average employee salary and randomly selected employee.
 
-![browser window labeled Employee Tracker with a form labeled Employee Roster logging first name, last name, and salary.](develop/assets/images/hw3-js-payroll-tracker-screenshot.png)
+![browser window labeled Employee Tracker with a form labeled Employee Roster logging first name, last name, and salary.](hw3-js-ayroll-tracker/develop/assets/images/hw3-js-payroll-tracker-screenshot.png)
 
 Deployment Link: 
 
